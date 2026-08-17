@@ -3,13 +3,15 @@ List<Map<String, dynamic>> chats = [
     "name": "Ali Khan",
     "message": "Kahan ho bhai?",
     "time": "9:45 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=1",
+    "profilePic":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVPzkzWsfcJnM6oa_XuO55DdB4KTwtF2-iU64kzLr7Q&s",
   },
   {
     "name": "Ahmed Raza",
     "message": "Kal milte hain",
     "time": "9:30 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=2",
+    "profilePic":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJrnxEaCB3pooHFK4AvhT8r13oBN3xrd49OymaRtE2w&s",
   },
   {
     "name": "Usman",

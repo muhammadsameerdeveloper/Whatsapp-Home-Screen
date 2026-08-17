@@ -13,11 +13,21 @@ class HomeView extends StatelessWidget {
           "WhatsApp",
           style: TextStyle(
             color: AppColors.greenColor,
-            fontSize: 30,
+            fontSize: 25,
             fontWeight: FontWeight.bold,
           ),
         ),
         backgroundColor: AppColors.whiteColor,
+        surfaceTintColor: Colors.transparent,
+        scrolledUnderElevation: 0,
+        actions: [
+          IconButton(onPressed: () {}, icon: Icon(Icons.camera_alt_outlined)),
+          IconButton(onPressed: () {}, icon: Icon(Icons.more_vert)),
+        ],
+        bottom: PreferredSize(
+          preferredSize: const Size.fromHeight(60),
+          child: Padding(padding: const EdgeInsets.all(8), child: TextField()),
+        ),
       ),
       body: ListView.builder(
         itemCount: chats.length,
