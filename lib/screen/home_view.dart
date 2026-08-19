@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp/screen/floating_button.dart';
+import 'package:whatsapp/screen/navigation_bar.dart';
 import 'package:whatsapp/userdata/chats_data.dart';
 import 'package:whatsapp/utils/app_colors.dart';
 
@@ -80,6 +81,7 @@ class HomeView extends StatelessWidget {
         },
       ),
       floatingActionButton: const FloatingButton(),
+      bottomNavigationBar: BottomNavBar(),
     );
   }
 }
