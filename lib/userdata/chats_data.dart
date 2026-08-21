@@ -18,92 +18,105 @@ List<Map<String, dynamic>> chats = [
     "message": "Assignment complete ho gaya?",
     "time": "9:15 PM",
     "profilePic":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVPzkzWsfcJnM6oa_XuO55DdB4KTwtF2-iU64kzLr7Q&s",
+        "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Hamza",
     "message": "Good night bro",
     "time": "8:55 PM",
     "profilePic":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVPzkzWsfcJnM6oa_XuO55DdB4KTwtF2-iU64kzLr7Q&s",
+        "https://plus.unsplash.com/premium_photo-1672239496290-5061cfee7ebb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Hassan",
     "message": "Screenshot bhejo",
     "time": "8:40 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=5",
+    "profilePic":
+        "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Bilal",
     "message": "Theek hai 👍",
     "time": "8:20 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=6",
+    "profilePic":
+        "https://images.unsplash.com/photo-1615109398623-88346a601842?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Saad",
     "message": "Bhai ek kaam tha",
     "time": "8:05 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=7",
+    "profilePic":
+        "https://images.unsplash.com/photo-1581382575275-97901c2635b7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Adeel",
     "message": "Call karna jab free ho",
     "time": "7:50 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=8",
+    "profilePic":
+        "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Danish",
     "message": "Nice work 🔥",
     "time": "7:35 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=9",
+    "profilePic":
+        "https://plus.unsplash.com/premium_photo-1672239496290-5061cfee7ebb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Fahad",
     "message": "Kya scene hai?",
     "time": "7:20 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=10",
+    "profilePic":
+        "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Zain",
     "message": "Main ghar pohanch gaya",
     "time": "7:05 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=11",
+    "profilePic":
+        "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Talha",
     "message": "Kal class hai?",
     "time": "6:50 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=12",
+    "profilePic":
+        "https://plus.unsplash.com/premium_photo-1723770023600-8083358720aa?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Shahzaib",
     "message": "Bhai notes send kar do",
     "time": "6:35 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=13",
+    "profilePic":
+        "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Waleed",
     "message": "Done bro",
     "time": "6:20 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=14",
+    "profilePic":
+        "https://images.unsplash.com/photo-1508341591423-4347099e1f19?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Rehan",
     "message": "Khana kha liya?",
     "time": "6:05 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=15",
+    "profilePic":
+        "http://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Arham",
     "message": "Project kaisa chal raha hai?",
     "time": "5:50 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=16",
+    "profilePic":
+        "https://plus.unsplash.com/premium_photo-1689977968861-9c91dbb16049?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Muneeb",
     "message": "Okay 👍",
     "time": "5:35 PM",
-    "profilePic": "https://i.pravatar.cc/150?img=17",
+    "profilePic":
+        "https://images.unsplash.com/photo-1590086782957-93c06ef21604?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "name": "Abdullah",
